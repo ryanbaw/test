@@ -2,9 +2,9 @@
 work test
 
 install dependencies package
-# sudo apt-get install libcurses5-dev
-# sudo apt-get install build-essential
-# sudo apt-get install gawk bison flex libjpeg62-dev
+sudo apt-get install libcurses5-dev
+sudo apt-get install build-essential
+sudo apt-get install gawk bison flex libjpeg62-dev
 
 modify /etc/rc.local
 before exit 0, add following code:
